@@ -1,0 +1,10 @@
+Welcome to FlyAdventure!
+
+I see you came looking for help. Well, here are the instructions.
+The rules are quite simple. All you have to do is choose your character and the way you want to play - using mouse or spacebar.
+If you choose the mouse, when the game starts, the cursor position will take the default start position for the player. From now on, all you have to do is move the cursor and the player will follow.
+If you choose the spacebar, your game will become more difficult than it would've been if you had chosen the mouse. When the game starts, your player will start falling, so you'll have to press Space before the player hits the ground.
+The game stops when you tresspass the screen margins or if you hit any of the obstacles in your way (buildings, trees, birds, clouds).
+So try avoiding them as much a possible.
+The goal is to fly as longer as possible.
+Have fun!
